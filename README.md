@@ -1,4 +1,4 @@
-'''#include <SoftwareSerial.h>
+''' #include <SoftwareSerial.h>
 
 SoftwareSerial BTSerial(10, 11); // RX | TX
 const int ledPin = 13; // Onboard LED pin
@@ -30,7 +30,8 @@ void loop() {
 
 
   delay(500); // Delay for a second before the next reading
-}'''
+} 
+'''
 
 
 The above is the arduino code.
